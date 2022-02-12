@@ -21,7 +21,23 @@ Print out the moves you will take to rescue the princess in one go. The moves mu
 
 #### Sample input
 
-`3
+```
+3
 ---
 -m-
-p--`
+p--
+```
+#### Sample output
+
+```
+DOWN
+LEFT
+```
+
+#### logic:
+
+- First compute position of Bot and Princess
+- compare their positions based on x distance and y distance 
+- if x distance is higher then take either up or down move.
+- if y distance is higher then take either right or left move.
+- follow this steps until reach to the goal position.
