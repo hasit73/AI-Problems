@@ -1,10 +1,10 @@
-# AI-Games
+## Problem: Save the princess:
 
-Problem: Save the princess:
+Problem defination on Hackerrank: 
 
-Problem defination on Hackerrank: https://www.hackerrank.com/challenges/saveprincess
+https://www.hackerrank.com/challenges/saveprincess
 
-About problem:
+### About problem:
 
 Princess Peach is trapped in one of the four corners of a square grid.
 You are in the center of the grid and can move one step at a time in any of the four directions
