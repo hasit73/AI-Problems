@@ -116,6 +116,13 @@ DOWN
 ----d
 ```
 
+#### Output video:
+
+
+https://user-images.githubusercontent.com/69752829/154788286-cf43495e-025a-4b03-b039-22c1b1c33992.mp4
+
+
+
 #### logic:
 
 1) First compute position of Bot and dirty places
